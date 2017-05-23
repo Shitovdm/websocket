@@ -1,4 +1,3 @@
-"use strict"; //All my JavaScript written in Strict Mode http://ecma262-5.com/ELS5_HTML.htm#Annex_C
 
 (function () {
     // ======== private vars ========
