@@ -14,7 +14,6 @@ if (!$socket) {
     die($errstr. "(" .$errno. ")\n");
 }
 
-
 $connects = array();
 while (true) {
 	echo "main while...<br />";

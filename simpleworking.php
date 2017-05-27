@@ -56,11 +56,7 @@ function go(){
 			echo "return <br />\r\n"; 
 			return $socket;
 		}
-
-
 	}
-
-
 }
 
 error_reporting(E_ALL); //Выводим все ошибки и предупреждения
